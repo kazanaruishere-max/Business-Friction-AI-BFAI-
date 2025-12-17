@@ -1,0 +1,12 @@
+[
+  {
+    "anomaly_id": "HUMAN_DEP_ord-001",
+    "case_id": "ord-001",
+    "anomaly_type": "human_dependency",
+    "description": "Human-driven delays account for 87.5% of total case duration (12600s / 14400s).",
+    "severity": "medium",
+    "involved_events": [],
+    "root_cause": "Process step requires significant manual intervention.",
+    "recommendation": "Evaluate potential for RPA (Robotic Process Automation) or partial automation."
+  }
+]

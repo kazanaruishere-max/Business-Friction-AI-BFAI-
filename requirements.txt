@@ -1,0 +1,14 @@
+# BFAI - Requirements
+# For users who prefer pip over Poetry
+
+typer>=0.15.0
+rich>=13.7.0
+click>=8.1.0
+pandas>=2.1.0
+pydantic>=2.5.0
+numpy>=1.26.0
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# ruff>=0.1.8
+# mypy>=1.7.0

@@ -1,0 +1,12 @@
+case_id,activity,timestamp,resource,actor_type
+ord-001,Order Placed,2023-10-01 10:00:00,System,system
+ord-001,Payment Check,2023-10-01 10:00:05,System,system
+ord-001,Stock Check,2023-10-01 10:00:10,System,system
+ord-001,Packing,2023-10-01 10:30:00,Bob,human
+ord-001,Shipping,2023-10-01 14:00:00,Carrier,system
+ord-002,Order Placed,2023-10-01 11:00:00,System,system
+ord-002,Payment Check,2023-10-01 11:00:05,System,system
+ord-002,Payment Failed,2023-10-01 11:00:10,System,system
+ord-002,Retry Payment,2023-10-02 09:00:00,Alice,human
+ord-002,Payment Check,2023-10-02 09:00:05,System,system
+ord-002,Stock Check,2023-10-02 09:00:10,System,system

@@ -1,0 +1,6 @@
+feat(docs): release v0.1.0 with demo script and documentation
+
+- Add `scripts/run_demo.ps1` for end-to-end verification.
+- Update `README.md` with installation and usage guide.
+- Add `docs/demo_vs_production.md` architecture comparison.
+- Verify full pipeline execution.

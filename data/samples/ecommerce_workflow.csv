@@ -1,0 +1,18 @@
+case_id,activity,timestamp,resource
+ord-101,Order Placed,2023-10-01 10:00:00,System
+ord-101,Payment Check,2023-10-01 10:00:05,System
+ord-101,Stock Check,2023-10-01 10:00:10,System
+ord-101,Packing,2023-10-01 10:30:00,WarehouseUser1
+ord-101,Shipping,2023-10-01 14:00:00,Carrier
+ord-102,Order Placed,2023-10-01 11:00:00,System
+ord-102,Payment Check,2023-10-01 11:00:05,System
+ord-102,Payment Failed,2023-10-01 11:00:10,System
+ord-102,Retry Payment,2023-10-02 09:00:00,Customer
+ord-102,Payment Check,2023-10-02 09:00:05,System
+ord-102,Stock Check,2023-10-02 09:00:10,System
+ord-103,Order Placed,2023-10-01 12:00:00,System
+ord-103,Payment Check,2023-10-01 12:00:05,System
+ord-103,Stock Check,2023-10-01 12:00:10,System
+ord-103,Approval Requested,2023-10-01 12:05:00,System
+ord-103,Manager Approval,2023-10-03 09:00:00,Manager_Bob
+ord-103,Packing,2023-10-03 10:00:00,WarehouseUser2
